@@ -18,9 +18,9 @@ EEG folder contains:
   
 
 
-### Exerpient_Data
+### Experiment_Data
 - MI_trials
-  EEG Data measured during an experiement performing motor imagery
+  EEG Data measured during an experiment performing motor imagery
 - OE-CE_trials
   EEG Data measured during an experiment opening and closing eyes
 
