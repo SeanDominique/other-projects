@@ -1,6 +1,6 @@
 Hi Chai,
 
-I've uploaded a couple scripts of some of the work I've done previously. I hope it gives you some understanding of my current experience, and helps you determine how I may be able to help you and the team at Lenexa Medical out. 
+I've uploaded a couple of scripts of some of the work I've done previously. I hope it gives you some understanding of my current experience, and helps you determine how I may be able to help you and the team at Lenexa Medical. 
 Very eager to learn more and happy to dive into a specific direction depending on what you need!
 
 ### You'll find the following:
