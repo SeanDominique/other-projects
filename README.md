@@ -1,15 +1,7 @@
-Hi Chai,
-
-I've uploaded a couple of scripts of some of the work I've done previously. I hope it gives you some understanding of my current experience, and helps you determine how I may be able to help you and the team at Lenexa Medical. 
-Very eager to learn more and happy to dive into a specific direction depending on what you need!
-
-### You'll find the following:
 EEG folder contains:
 
 
 ### Signal_Processing
-** Note ** these scripts I worked on in collaboration with other team members
-
 - EEG_Signal_Analysis_MENTALAB.py
   Process, Filter and Visualise EEG data
 
@@ -49,9 +41,6 @@ EEG folder contains:
   Webapp to record user input in firebase, and link them to a survey.
 
 - OOP/project1-2
-Made a game for a uni assignment.
-
-
-I've also worked in C, MATLAB, and LabVIEW.
+Made a game
 
 
