@@ -1,5 +1,6 @@
-EEG folder contains:
+# EEG folder contains:
 
+__Built a brain computer interface (BCI) wheelchair system to control a wheel chair movement using motor imagery.__
 
 ### Signal_Processing
 - EEG_Signal_Analysis_MENTALAB.py
@@ -8,15 +9,11 @@ EEG folder contains:
 - EEG_signal_processing.ipynb
   Process, Filter, Visualise and classify EEG data for Error-related potential detection.
   
-
-
 ### Experiment_Data
 - MI_trials
   EEG Data measured during an experiment performing motor imagery
 - OE-CE_trials
   EEG Data measured during an experiment opening and closing eyes
-
-  
 
 ### Experiment_Scripts
 - circle_v3.ino
@@ -38,9 +35,9 @@ EEG folder contains:
 ### Other
 
 - DHF-webapp.tsx
-  Webapp to record user input in firebase, and link them to a survey.
+  Webapp to record user input (scale from 1 to 10) in firebase, and link them to a survey. 
 
 - OOP/project1-2
-Made a game
+  Made a game to practice OOP.
 
 
